@@ -1,0 +1,38 @@
+{
+  "name": "quick-project",
+  "version": "1.0.0",
+  "description": "QuickBot.",
+  "main": "shard.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "discord.js": "^12.3.1",
+    "fs-extra": "^9.0.1",
+    "fs": "^0.0.2",
+    "quick.db": "^7.1.2",
+    "ms": "^2.1.2",
+    "parse-ms": "^2.1.0",
+    "node-fetch": "^2.6.1",
+    "node-superfetch": "^0.1.10",
+    "path": "^0.12.7",
+    "log-symbols": "^4.0.0",
+    "alexa-bot-api": "^0.1.4",
+    "canvacord": "^5.0.6",
+    "canvas-senpai": "^0.1.6",
+    "canvas-constructor": "^4.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
